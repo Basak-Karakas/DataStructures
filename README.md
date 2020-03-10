@@ -1,3 +1,3 @@
 # Datastructures
 we are in master branch
-from branch2
+from Branch2
